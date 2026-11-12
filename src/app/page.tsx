@@ -1,6 +1,7 @@
 import React from 'react';
 import { HeroHome } from '@/components/sections/HeroHome';
 import { MethodExplorer } from '@/components/sections/MethodExplorer';
+import { RootMapDiagnostic } from '@/components/sections/RootMapDiagnostic';
 import { OffersGrid } from '@/components/sections/OffersGrid';
 import { TamaraSignature } from '@/components/sections/TamaraSignature';
 import { FaqAccordion } from '@/components/sections/FaqAccordion';
@@ -90,7 +91,10 @@ export default function HomePage() {
       {/* 3. La Méthode I.R.I.A. Interactive */}
       <MethodExplorer />
 
-      {/* 4. Les 3 Portes d'Accès */}
+      {/* 4. Mini Auto-Diagnostic Root Map Express */}
+      <RootMapDiagnostic />
+
+      {/* 5. Les 3 Portes d'Accès */}
       <OffersGrid />
 
       {/* 5. Tamara Signature Story */}
@@ -109,7 +113,7 @@ export default function HomePage() {
             Es-tu prête à te choisir ?
           </h2>
           <p className="text-sm sm:text-base text-[#FBF9F5]/80 max-w-xl mx-auto leading-relaxed">
-            Chaque mois sans agir est un mois de plus à vivre déconnectée de toi. Réserve un appel découverte de 15 à 20 minutes avec Tamara pour faire le point.
+            Chaque mois sans agir est un mois de plus à vivre déconnectée de toi. Réserve un appel découverte de 15 à 20 minutes avec Tamara pour faire le point en toute confidentialité, sans aucun discours commercial ni engagement forcé.
           </p>
           <div className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a

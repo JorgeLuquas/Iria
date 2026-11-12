@@ -195,6 +195,32 @@ export default function AccompagnementPage() {
             </p>
           </div>
 
+          {/* Démystification & Réassurance de l'Appel */}
+          <div className="p-6 rounded-2xl bg-[#FBF9F5] border border-[#839689]/30 text-left max-w-2xl mx-auto space-y-4">
+            <div className="flex items-center gap-2 text-[#4D6355]">
+              <ShieldCheck className="w-5 h-5 shrink-0" />
+              <h3 className="font-serif text-lg font-medium text-[#1A1412]">
+                Ce que ces 15 minutes représentent (et ce qu’elles ne sont pas)
+              </h3>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs">
+              <div className="space-y-1.5 bg-[#F5F0E6] p-4 rounded-xl">
+                <span className="font-semibold text-[#4D6355] block">Ce que c’est :</span>
+                <p className="text-[#635634] leading-relaxed">
+                  Un temps d’écoute sincère où tu peux déposer ce que tu traverses. Tamara évalue avec toi si la méthode répond à ton besoin et si le lien de confiance s’établit naturellement.
+                </p>
+              </div>
+
+              <div className="space-y-1.5 bg-[#F5F0E6] p-4 rounded-xl">
+                <span className="font-semibold text-[#4A1521] block">Ce que ce n’est pas :</span>
+                <p className="text-[#635634] leading-relaxed">
+                  Aucun discours commercial agressif ni forcing de vente. Si Tamara estime que l’accompagnement n’est pas adapté ou que le moment n’est pas opportun, elle te le dira avec la même honnêteté.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* Calendly Interactive Card Placeholder */}
           <div className="p-8 rounded-2xl bg-[#F5F0E6] border border-[#635634]/15 space-y-6 max-w-lg mx-auto">
             <div className="flex items-center justify-center gap-3 text-xs text-[#4A1521] font-medium">
