@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FBF9F5;
+  --color-cream-warm: #F4EFE6;
+  --color-nude: #EAE4D9;
+  --color-sand: #D6CEBE;
+  --color-caramel: #B6A571;
+  --color-moka: #635634;
+  --color-espresso: #1A1412;
+  --color-chocolate: #392118;
+  --color-bordeaux: #4A1521;
+  --color-bordeaux-dark: #3A0108;
+  --color-sage: #839689;
+  --color-gold: #A68A56;
+}
+
+:root {
+  --background: #FBF9F5;
+  --foreground: #1A1412;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.font-serif {
+  font-family: var(--font-serif, "Cormorant Garamond", Georgia, serif);
+}
+
+.font-sans {
+  font-family: var(--font-sans, "Plus Jakarta Sans", system-ui, sans-serif);
+}
+
+/* Custom delicate borders & shadows */
+.border-subtle {
+  border-color: rgba(99, 86, 52, 0.15);
+}
+
+.card-luxury {
+  background: rgba(255, 255, 255, 0.65);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(99, 86, 52, 0.12);
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.card-luxury:hover {
+  background: rgba(255, 255, 255, 0.95);
+  border-color: rgba(74, 21, 33, 0.25);
+  box-shadow: 0 16px 36px -12px rgba(57, 33, 24, 0.08);
+  transform: translateY(-2px);
+}
