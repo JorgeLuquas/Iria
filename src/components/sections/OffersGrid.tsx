@@ -53,7 +53,7 @@ export const OffersGrid = () => {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-[#839689] shrink-0 mt-0.5" />
-                  <span>Suivi continu WhatsApp (Lun–Ven 9h–14h)</span>
+                  <span>Suivi régulier sur WhatsApp (lun. au ven., 9h à 14h)</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-[#839689] shrink-0 mt-0.5" />

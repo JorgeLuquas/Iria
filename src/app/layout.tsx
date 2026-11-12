@@ -4,7 +4,7 @@ import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
 
 export const metadata: Metadata = {
-  title: 'IRIA Lab · Te retrouver, te choisir, te réaligner | Coaching Féminin',
+  title: 'IRIA · Te retrouver, te choisir, te réaligner | Coaching Féminin',
   description:
     'Accompagnement de coaching individuel fondé sur la PNL et l’approche systémique par Tamara. Pour se reconstruire après une rupture et bâtir des fondations relationnelles inébranlables.',
   keywords: [
@@ -12,12 +12,12 @@ export const metadata: Metadata = {
     'coaching féminin suisse',
     'se retrouver après divorce',
     'coaching PNL genève lausanne',
-    'IRIA lab',
+    'IRIA coaching',
     'tamara coaching',
     'cercles de parole power tear lab',
   ],
   openGraph: {
-    title: 'IRIA Lab · Te retrouver, te choisir, te réaligner',
+    title: 'IRIA · Te retrouver, te choisir, te réaligner',
     description:
       '« Tu n’es pas perdue. Tu t’es éloignée de toi. Il est temps de revenir. » Accompagnement premium de quête de soi et reconstruction relationnelle.',
     images: ['/images/tamara-portrait-1.jpeg'],

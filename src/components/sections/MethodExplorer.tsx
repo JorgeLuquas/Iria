@@ -60,7 +60,7 @@ export const MethodExplorer = () => {
         <SectionHeader
           eyebrow="Architecture Méthodologique"
           title="La Méthode I.R.I.A. en 4 Mouvements"
-          subtitle="Une structure progressive, pensée comme un fil rouge — de la stabilisation immédiate à l’alignement pérenne."
+          subtitle="Une structure progressive et concrète, pensée pour t'accompagner de la stabilisation immédiate jusqu’à l’alignement pérenne."
           centered
         />
 

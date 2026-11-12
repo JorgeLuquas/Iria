@@ -33,7 +33,7 @@ export default function AccompagnementPage() {
       desc: 'Chaque séance est préparée en amont par Tamara selon tes défis et tes victoires de la semaine.',
     },
     {
-      title: 'Suivi Continu WhatsApp (Lun–Ven 9h–14h)',
+      title: 'Suivi continu sur WhatsApp (lundi au vendredi, 9h à 14h)',
       desc: 'Pour déposer tes doutes dans les moments clés, célébrer tes déclics et ne jamais rester seule face à un blocage.',
     },
     {

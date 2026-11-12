@@ -54,7 +54,7 @@ export default function MethodePage() {
           La Méthode IRIA
         </h1>
         <p className="text-base sm:text-lg text-[#635634] max-w-2xl mx-auto leading-relaxed">
-          Une architecture en 4 mouvements et 6 chantiers de fond, pensée comme un fil rouge — de la stabilisation de ton quotidien à l’alignement durable de tes choix.
+          Une architecture en 4 mouvements et 6 chantiers de fond, pensée comme un fil conducteur pour aller de la stabilisation de ton quotidien jusqu’à l’alignement durable de tes choix.
         </p>
       </div>
 

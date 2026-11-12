@@ -22,7 +22,7 @@ export const TamaraSignature = () => {
                 <div className="absolute inset-0 bg-gradient-to-t from-[#1A1412]/80 via-transparent to-transparent" />
                 <div className="absolute bottom-6 left-6 right-6">
                   <span className="text-xs uppercase tracking-[0.25em] text-[#B6A571] font-semibold block mb-1">
-                    Fondatrice d’IRIA Lab
+                    Fondatrice d’IRIA
                   </span>
                   <p className="font-serif text-2xl text-[#FBF9F5]">
                     Tamara
@@ -50,7 +50,7 @@ export const TamaraSignature = () => {
 
             <div className="space-y-4 text-sm text-[#D6CEBE]/90 leading-relaxed font-light">
               <p>
-                Il y a dix ans, ma propre vie s’est fissurée en silence. Un divorce — et avec lui, cette question vertigineuse qui ne m’a plus quittée :{' '}
+                Il y a dix ans, ma propre vie s’est fissurée en silence. Un divorce, et avec lui, cette question vertigineuse qui ne m’a plus quittée :{' '}
                 <strong className="text-[#FBF9F5] font-normal italic">
                   qui suis-je en dehors des rôles que je tenais ?
                 </strong>{' '}

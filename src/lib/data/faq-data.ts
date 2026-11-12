@@ -27,7 +27,7 @@ export const FAQ_ITEMS: FaqItem[] = [
     category: 'Tarif',
     question: 'Quel est l’investissement financier et existe-t-il des facilités de paiement ?',
     answer:
-      'Le parcours complet de 4 mois représente un investissement de CHF 2’490 (pour la Suisse) ou 2’649 € (pour la zone Euro). Ce tarif inclut les 8 séances individuelles de 1h30, la préparation sur-mesure de chaque rendez-vous, le suivi WhatsApp hebdomadaire (du lundi au vendredi, 9h–14h), la cartographie Root Map d’entrée/sortie, les rituels des lettres de feu et le carnet de synthèse final. Des facilités de règlement en 2, 3 ou 4 fois sans frais peuvent être mises en place lors de l’appel découverte.',
+      'Le parcours complet de 4 mois représente un investissement de CHF 2’490 (pour la Suisse) ou 2’649 € (pour la zone Euro). Ce tarif inclut les 8 séances individuelles de 1h30, la préparation sur-mesure de chaque rendez-vous, le suivi WhatsApp hebdomadaire (du lundi au vendredi, de 9h à 14h), la cartographie Root Map d’entrée/sortie, les rituels des lettres de feu et le carnet de synthèse final. Des facilités de règlement en 2, 3 ou 4 fois sans frais peuvent être mises en place lors de l’appel découverte.',
   },
   {
     category: 'Garantie & Appel',

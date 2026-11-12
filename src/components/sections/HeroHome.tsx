@@ -25,7 +25,7 @@ export const HeroHome = () => {
             </h1>
 
             <p className="text-base sm:text-lg text-[#635634] leading-relaxed max-w-xl">
-              Pour les femmes qui sentent qu’il est temps de se retrouver — pas seulement pour « aller mieux », mais pour mener un vrai travail d’identité : redécouvrir qui tu es aujourd’hui, ce qui compte vraiment, et la vie que tu as envie de choisir, au-delà de tes rôles.
+              Pour les femmes qui sentent qu’il est temps de se retrouver. Pas seulement pour « aller mieux », mais pour mener un vrai travail de fond : redécouvrir qui tu es aujourd’hui, clarifier ce qui compte vraiment, et choisir la vie qui te ressemble, au-delà des rôles que tu portes.
             </p>
 
             <div className="pt-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
@@ -84,7 +84,7 @@ export const HeroHome = () => {
               <div className="relative rounded-[28px] overflow-hidden shadow-2xl bg-[#EAE4D9] aspect-[4/5] border border-[#635634]/20 group">
                 <img
                   src="/images/tamara-portrait-1.jpeg"
-                  alt="Tamara · Fondatrice d'IRIA Lab"
+                  alt="Tamara · Fondatrice d'IRIA"
                   className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700"
                 />
 

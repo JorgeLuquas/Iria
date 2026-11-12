@@ -23,7 +23,7 @@ export default function HomePage() {
               Ce que traverse presque chaque femme qui arrive chez IRIA
             </h2>
             <p className="text-sm text-[#635634] leading-relaxed">
-              À force de tenir des rôles — professionnelle, mère, partenaire, celle sur qui on compte — on finit par mettre ses propres besoins en dernier.
+              À force de tenir tous les rôles (professionnelle, mère, conjointe, pilier de l’entourage), on finit par reléguer ses propres besoins au second plan.
             </p>
           </div>
 

@@ -12,14 +12,18 @@ export const Footer = () => {
           {/* Brand & Manifesto */}
           <div className="md:col-span-5 flex flex-col gap-5">
             <div className="flex items-center gap-3">
+              <div className="w-10 h-10 rounded-full overflow-hidden border border-[#B6A571]/30">
+                <img
+                  src="/images/iria-logo.png"
+                  alt="IRIA"
+                  className="w-full h-full object-cover"
+                />
+              </div>
               <span className="font-serif text-3xl tracking-[0.2em] font-light uppercase text-[#FBF9F5]">
                 IRIA
               </span>
-              <span className="text-[10px] tracking-[0.3em] uppercase text-[#B6A571]">
-                Lab
-              </span>
             </div>
-            <p className="font-serif text-lg italic text-[#FBF9F5]/80 leading-relaxed max-w-md">
+            <p className="font-serif text-lg italic text-[#FBF9F5]/85 leading-relaxed max-w-md">
               « Tu n’es pas perdue. Tu t’es éloignée de toi. Il est temps de revenir. »
             </p>
             <p className="text-xs text-[#D6CEBE]/70 leading-relaxed max-w-sm">
@@ -27,7 +31,7 @@ export const Footer = () => {
             </p>
             <div className="pt-2 text-xs text-[#B6A571] flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-[#839689]" />
-              <span>Suisse · Séances en Visio & Présentiel</span>
+              <span>Suisse · Séances en visio et en présentiel</span>
             </div>
           </div>
 
@@ -94,7 +98,7 @@ export const Footer = () => {
 
         {/* Bottom Bar & Discrete Studio Link */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#D6CEBE]/50 gap-4">
-          <p>© {new Date().getFullYear()} IRIA Lab · Tamara. Tous droits réservés.</p>
+          <p>© {new Date().getFullYear()} IRIA · Tamara. Tous droits réservés.</p>
           <div className="flex items-center gap-6">
             <span>Conformité LPD (Suisse) & RGPD</span>
             <span>Mentions Légales</span>

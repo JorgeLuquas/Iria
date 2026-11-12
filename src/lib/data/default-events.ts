@@ -23,7 +23,7 @@ export const DEFAULT_EVENTS: CircleEventItem[] = [
     description:
       'Une matinée intime en présentiel, réservée à un groupe exclusif de 8 femmes. Un espace d’expression sécurisé, guidé par Tamara avec des exercices de libération émotionnelle, des miroirs de groupe et des outils concrets de PNL.',
     eventDate: 'Samedi 12 Décembre 2026',
-    timeRange: '09h30 – 13h00',
+    timeRange: '09h30 à 13h00',
     location: 'Genève, Suisse',
     address: 'Espace Intimiste & Chaleureux (adresse exacte transmise aux inscrites)',
     maxSeats: 8,
@@ -39,7 +39,7 @@ export const DEFAULT_EVENTS: CircleEventItem[] = [
     description:
       'Comment sortir des relations de répétition et clarifier ce que tu mérites vraiment. Atelier d’exploration en petit comité pour femmes prêtes à passer à l’action.',
     eventDate: 'Samedi 20 Mars 2027',
-    timeRange: '10h00 – 13h30',
+    timeRange: '10h00 à 13h30',
     location: 'Lausanne, Suisse',
     address: 'Quartier Sous-Gare / Lac',
     maxSeats: 8,

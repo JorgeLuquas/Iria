@@ -17,7 +17,7 @@ export default function AProposPage() {
           La Fondatrice
         </span>
         <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl text-[#1A1412] font-light">
-          Tamara & IRIA Lab
+          Tamara & IRIA
         </h1>
         <p className="text-base sm:text-lg text-[#635634] max-w-2xl mx-auto leading-relaxed">
           « Ce que je porte dans cet accompagnement, c’est tout ce que je sais avec rigueur, et tout ce que la vie m’a appris en chemin. »
@@ -41,16 +41,16 @@ export default function AProposPage() {
               Bonjour, je m’appelle Tamara.
             </h2>
             <p>
-              Il y a dix ans, ma vie s’est fissurée en silence. Un divorce — et avec lui, cette question qui ne m’a plus quittée pendant des mois :{' '}
+              Il y a dix ans, ma vie s’est fissurée en silence. Un divorce, et avec lui, cette question qui ne m’a plus quittée pendant des mois :{' '}
               <strong className="font-normal italic text-[#4A1521]">
                 qui suis-je, en dehors des rôles que je tenais ?
               </strong>
             </p>
             <p>
-              J’ai connu le brouillard épais, la perte brutale de repères, et ce sentiment d’avoir vécu en pilote automatique au service des autres. Et j’ai appris, peu à peu, à reprendre appui sur mes propres ressources intérieures — jusqu’à retrouver un élan sincère, puis un sens nouveau à ma trajectoire.
+              J’ai connu le brouillard épais, la perte brutale de repères, et ce sentiment d’avoir vécu en pilote automatique au service des autres. Peu à peu, j’ai réappris à prendre appui sur mes propres ressources, jusqu’à retrouver un élan sincère et donner un sens nouveau à ma trajectoire.
             </p>
             <p>
-              Pendant plusieurs années, en tant que <strong className="font-normal text-[#1A1412]">case manager et spécialiste en gestion de la santé</strong>, j’ai accompagné des personnes confrontées à des ruptures de vie majeures — burn-out, maladies lourdes, handicaps. J’y ai forgé une conviction inébranlable :{' '}
+              Pendant plusieurs années, en tant que <strong className="font-normal text-[#1A1412]">case manager et spécialiste en gestion de la santé</strong>, j’ai accompagné des personnes confrontées à des ruptures de vie majeures (burn-out, maladies lourdes, handicaps). J’y ai forgé une conviction inébranlable :{' '}
               <span className="italic text-[#4A1521]">
                 accompagner, ce n’est pas réparer à la place de l’autre. C’est soutenir, faire circuler et faciliter ce qui peut l’être, avec autant de rigueur méthodologique que d’humanité.
               </span>

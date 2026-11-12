@@ -35,22 +35,14 @@ export const Navbar = () => {
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 sm:px-8 flex items-center justify-between">
-        {/* Brand Logo */}
-        <a href="/" className="flex items-center gap-3 group">
-          <div className="relative w-10 h-10 rounded-full overflow-hidden border border-[#635634]/20 group-hover:border-[#4A1521]/40 transition-colors">
+        {/* Brand Logo - Logo uniquement, sans mention Lab ni Genève */}
+        <a href="/" className="flex items-center group" aria-label="IRIA">
+          <div className="relative w-11 h-11 rounded-full overflow-hidden border border-[#635634]/20 group-hover:border-[#4A1521]/50 transition-all duration-300 shadow-sm">
             <img
               src="/images/iria-logo.png"
-              alt="IRIA Lab Logo"
+              alt="IRIA Logo"
               className="w-full h-full object-cover"
             />
-          </div>
-          <div className="flex flex-col">
-            <span className="font-serif text-2xl tracking-[0.18em] font-medium text-[#1A1412] uppercase group-hover:text-[#4A1521] transition-colors">
-              IRIA
-            </span>
-            <span className="text-[9px] uppercase tracking-[0.3em] text-[#635634]/70 -mt-1">
-              Lab · Genève
-            </span>
           </div>
         </a>
 
